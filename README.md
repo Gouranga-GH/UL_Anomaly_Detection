@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### Running the Project
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/anomaly-detection.git
+   git clone https://github.com/Gouranga-GH/UL_Anomaly_Detection_ISD.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
@@ -40,13 +40,6 @@ pip install -r requirements.txt
    jupyter notebook anaomaly_detection.ipynb
    \`\`\`
 4. Execute the notebook to run the models and view the comparison.
-
-### Project Structure
-\`\`\`
-├── anomaly_detection.ipynb   # Main notebook containing the code and analysis
-├── README.md                 # Project documentation
-└── data/                     # Directory for datasets (if applicable)
-\`\`\`
 
 ## Results
 
